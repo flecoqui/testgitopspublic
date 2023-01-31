@@ -1,0 +1,14 @@
+kind: Namespace
+apiVersion: v1
+metadata:
+  name: cloudprod
+---
+kind: Namespace
+apiVersion: v1
+metadata:
+  name: clouddev
+---
+kind: Namespace
+apiVersion: v1
+metadata:
+  name: cloudtest
